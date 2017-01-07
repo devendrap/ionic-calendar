@@ -1,0 +1,23 @@
+{
+  "name": "ionic-calendar",
+  "version": "1.0.0",
+  "description": "ionic2 calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devendrap/ionic-calendar.git"
+  },
+  "keywords": [
+    "ionic2",
+    "calendar"
+  ],
+  "author": "Devendra Phadke <devendra.phadke@ridesoftech.com> (http://ridesoftech.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/devendrap/ionic-calendar/issues"
+  },
+  "homepage": "https://github.com/devendrap/ionic-calendar#readme"
+}
